@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/synchronization"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/menu_popup_synchronization" />
+    <item
+        android:id="@+id/synchronizationOptions"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/menu_popup_synchronization_options" />
+    <item
+        android:id="@+id/downloadPhotos"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/menu_popup_download_photos" />
+    <item
+        android:id="@+id/clearPhotos"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/menu_popup_clear_memory" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/menu_popup_logout"></item>
+
+</menu>
